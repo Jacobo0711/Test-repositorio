@@ -159,16 +159,15 @@
     padding: 20px 30px;
   }
   .testimonial-content   {
-    background: #FFF;
+    background: #EFEFEF;
     padding: 15px;
     border-radius: 4px;
     margin-bottom: 15px;
   }
   .testimonial-author img {
     float: left;
-    width: 80px;
-    border-radius: 50%;
-    margin-right: 15px;
+    width: 300px;
+    margin-right: 100px;
     vertical-align: middle;
   }
   .testimonial-author h5   {
